@@ -7,9 +7,17 @@
 ### What is where?
 The folder structure is given below:
 
+![](images/img4.png)
+
+As you can see there are two main folders when you log in:
+
+1. **datasets:** This is where all the datasets you will need to run the notebooks are kept. (There are some additional files as well you can ignore them). So in the virtual machine you have logged into the path to this folder will be `/home/datasets`
+
+2. **dl_content:** This is where all the code files are kept. You will need to refer to the directory `Upgrad DL` within `dl_content`.
+
 ![](./images/img3.png)
 
-As you can see the folder structure is loosely based on the deep learning course on Upgrad Platform. You will be working with the .ipynb files.
+As you can see the folder structure is loosely based on the deep learning course on Upgrad Platform. You will be working with the `.ipynb files.`
 
  ### Common gotchas to avoid
 
