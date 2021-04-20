@@ -32,5 +32,9 @@ Tensorflow has the tendency to use all the gpu memory. If you are running one no
  
  Commonly used libraries that you will need to run the codes and submit assignment/case study are already installed. In case you need to install many new libraries, make use of the terminal and create a separate virtual environment and install the libraries in that venv and use that venv. [Learn how to create virtual environments](https://packaging.python.org/guides/installing-using-pip-and-virtual-environments/)
 
+ 4. **Don't make copies of data files**
+   
+ There is only 20GB of hard disk allocated for each user. In this disk all the necessary datasets are placed. If you make unnecessary copies of data, you might end up filling up your disk space.
+
 ![](./images/img2.png)
 
