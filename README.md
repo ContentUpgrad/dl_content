@@ -11,7 +11,7 @@ The folder structure is given below:
 
 As you can see there are two main folders when you log in:
 
-1. **datasets:** This is where all the datasets you will need to run the notebooks are kept. (There are some additional files as well you can ignore them). So in the virtual machine you have logged into the path to this folder will be `/home/datasets`
+1. **datasets:** This is where all the datasets you will need to run the notebooks are kept. (There are some additional files as well you can ignore them). So in the virtual machine you have logged into the path to this folder will be `/home/datasets`. Note that `/home/datasets` is a **read only** directory.
 
 2. **dl_content:** This is where all the code files are kept. You will need to refer to the directory `Upgrad DL` within `dl_content`.
 
@@ -36,6 +36,6 @@ Tensorflow has the tendency to use all the gpu memory. If you are running one no
 ![](./images/img2.png)
 
  4. **Don't make copies of data files**
-   
+
  There is only 20GB of hard disk allocated for each user. In this disk all the necessary datasets are placed. If you make unnecessary copies of data, you might end up filling up your disk space.
 
